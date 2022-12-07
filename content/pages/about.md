@@ -24,7 +24,7 @@ In the course of 2021 I joined the [ETH Entrepreneur Club](https://eth.ec) to he
 
 # Others
 #### Hobbies
-I've been playing music 🎹 for some time now, and even if I had to put it aside completely because of my studies, I still enjoy sitting at the piano from time to time. I would really like to do some musical project, maybe one day as a post. Same as with music, I've always been interested by visual arts 🖌️ if I'm up to anything, I'll showcase it here. 
+I've been playing music 🎹 for some time now, and even if I had to put it aside completely because of my studies, I still enjoy sitting at the piano from time to time. I would really like to do some musical project, maybe one day as a post. Same as with music, I've always been interested by visual arts 🖌️ if I'm up to anything, I'll showcase it here.
 
 <p align="center"><img src = "/pages/files/cardinal.jpg", style="border-radius: 5%"></p>
 
