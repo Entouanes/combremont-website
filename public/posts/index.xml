@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on combremont.ch</title>
+    <link>/posts/</link>
+    <description>Recent content in Blog on combremont.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data analysis on Intagram followers</title>
+      <link>/posts/ig_followers_viz/</link>
+      <pubDate>Wed, 07 Dec 2022 11:22:33 +0100</pubDate>
+      
+      <guid>/posts/ig_followers_viz/</guid>
+      <description>0. Intro </description>
+    </item>
+    
+    <item>
+      <title>Ovarian Cancer Heterogeneity</title>
+      <link>/posts/ovarian/</link>
+      <pubDate>Wed, 07 Dec 2022 11:14:25 +0100</pubDate>
+      
+      <guid>/posts/ovarian/</guid>
+      <description>0. Intro </description>
+    </item>
+    
+    <item>
+      <title>Santa Barbara</title>
+      <link>/posts/santa_barbara/</link>
+      <pubDate>Wed, 07 Dec 2022 10:49:40 +0100</pubDate>
+      
+      <guid>/posts/santa_barbara/</guid>
+      <description>I&amp;rsquo;m adding content to this post. Stay tuned</description>
+    </item>
+    
+  </channel>
+</rss>

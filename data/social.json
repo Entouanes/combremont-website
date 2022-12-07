@@ -1,0 +1,18 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Entouanes",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/antoine-combremont-a025a3177/",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "combremontantoine@gmail.com",
+      "image": "images/social/email.svg"
+    }
+  ]
+}
