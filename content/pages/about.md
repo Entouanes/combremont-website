@@ -20,7 +20,7 @@ I wrote my thesis at the [research group of Prof. V. Boeva](http://boevalab.inf.
 My most recent experience was the basic training for my mandatory military service. I discovered a lot about how to work with people sometimes under stressful conditions. But as the saying goes "At the military, you wait to run and you run to wait" and it was also a learning experience: to let go and just do the job. Read [my post](/posts/santa_barbara) to get more insight about it. 
 
 #### LAUNCH 2021
-In the course of 2021 I joined the [ETH Entrepreneur Club](https://eth.ec) to help the organization team of "_Launch by ETH Entrepreneur Club_", a new really cool event in Zurich. The goal of Launch is to bring the startup ecosystem of Zurich together for a one night event, with talks, workshops and booths. The first edition had a huge success with 1000+ participant, and the second edition in 2022 was even greater.  
+In the course of 2021 I joined the [ETH Entrepreneur Club](https://eth.ec) to help the organization team of "_Launch by ETH Entrepreneur Club_", a new really cool event in Zurich. The goal of Launch is to bring the startup ecosystem of Zurich together for a one night event, with talks, workshops and booths. The first edition had a huge success with 1000+ participant, and the second edition in 2022 was even greater.
 
 # Others
 #### Hobbies
